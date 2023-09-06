@@ -18,3 +18,8 @@ for(int i = 0; i < 10; i++)
     console.WriteLine(i*i)
 }
 ```
+while(n < 0)
+{
+  n++;
+}
+```
