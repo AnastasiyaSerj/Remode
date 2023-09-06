@@ -12,11 +12,11 @@ git remode add <имя для репозитория> <url-адрес репоз
 ```
 git pull
 ```
-```
 for(int i = 0; i < 10; i++)
 {
     console.WriteLine(i*i)
 }
+```
 ```
 while(n < 0)
 {
